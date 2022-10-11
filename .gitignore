@@ -33,6 +33,7 @@
 
 # STS (Spring Tool Suite)
 .springBeans
+.DS_Store
 
 
 # Gradle and Maven with auto-import
